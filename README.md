@@ -9,6 +9,7 @@ A collection of lightweight, minimalist, and privacy-focused applications design
 | [Work](https://github.com/sacicz/work) | Mail, calendar, notes and to-do lists |
 | [Wallet](https://github.com/sacicz/wallet) | Offline cards with barcodes |
 | [Books](https://github.com/sacicz/books) | Offline e-book reader |
+| [Sudoku](https://github.com/sacicz/sudoku) | A calm offline sudoku |
 
 Download each app's APK from its Releases page and install it on your Kompakt with Mudita Center.
 ## Tip jar
