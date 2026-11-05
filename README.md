@@ -18,3 +18,5 @@ Enjoying the apps? Scan the code with another phone or open the link to leave a 
 <img src="tipjar-qr.svg" width="180" alt="QR code for ko-fi.com/zsacic">
 
 [ko-fi.com/zsacic](https://ko-fi.com/zsacic)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
