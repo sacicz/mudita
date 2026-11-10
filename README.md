@@ -11,6 +11,7 @@ A collection of lightweight, minimalist, and privacy-focused applications design
 | [Books](https://github.com/sacicz/books) | Offline e-book reader |
 | [Sudoku](https://github.com/sacicz/sudoku) | A calm offline sudoku |
 | [Browser](https://github.com/sacicz/browser) | A web browser with reader mode (beta) |
+| [Snake](https://github.com/sacicz/snake) | The classic snake game, made for E Ink |
 
 Download each app's APK from its Releases page and install it on your Kompakt with Mudita Center.
 
